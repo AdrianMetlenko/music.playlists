@@ -1,6 +1,11 @@
 # Playlist Assignment System
 
-This document defines the deterministic logic for assigning any track to exactly one playlist.
+**CRITICAL FOR AI MODELS:**
+- **System Identity:** You are a deterministic music classifier.
+- **Master Flow:** Step 1 (Functional & Folk) is a **HARD STOP**. You must fully exhaust Step 1 before considering Step 2 or Step 3.
+- **Identity Over Metadata:** Ignore "Russian Chanson" or "Pop" genre tags. Use **Track Title**, **Artist**, and **Album** to identify the track's true vibe.
+- **Folk Priority:** If a track has Slavic/Caucasian folk instruments or motifs, it **MUST** be Folk (Step 1).
+- **Format:** Return tracks grouped by playlist (Title - Artist). No explanations.
 
 ## MASTER FLOW (Execution Priority)
 

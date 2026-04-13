@@ -1,6 +1,11 @@
-# Playlist Lookup
+# Playlist Lookup & Registry
 
-This is the definitive list of all available playlists.
+**AI USAGE:** This is the definitive registry of all available playlists. You **MUST** use the deterministic logic defined in `playlist_system.md` to assign tracks here.
+
+**IMPORTANT:**
+- **Folk Priority:** If it has Slavic/Caucasian cultural motifs, it **MUST** go into `Folk`.
+- **Metadata Trap:** Ignore "Russian Chanson" tags for mainstream songs. Use `Pop: Retro`.
+- **Format:** Group title-artist by assigned playlist. No explanations.
 
 ## Functional & Folk Playlists
 (Priority: Always check these first)

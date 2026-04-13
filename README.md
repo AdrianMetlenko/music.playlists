@@ -1,14 +1,17 @@
-# Playlist System (Clean & Structured)
+# Deterministic Music Classifier System
 
-This system provides deterministic rules for assigning tracks to playlists.
+**INSTRUCTION FOR AI MODELS:**
+You are a deterministic music classifier. Use the logic in `playlist_system.md` and the registry in `playlists.md` to assign tracks.
 
-## Usage
-- Feed `playlist_system.md` and `playlists.md` to any AI model.
-- The AI will assign the correct playlist consistently using the **Master Flow**.
-- **Crucial:** Instruct the AI to use the **Track Title**, **Artist**, and **Album** to identify the track's true genre/vibe. Ignore any potentially incorrect metadata genre tags.
-- AI Prompt: "You are a deterministic music classifier. Use these rules to assign tracks to playlists. Follow the Master Flow (Step 1 -> Step 2 -> Step 3) and NEVER skip a step. Step 1 (Functional/Folk) is a HARD STOP. Use Title, Artist, and Album to identify the track's true vibe. **WARNING:** Ignore 'Russian Chanson' or 'Pop' genre tags - they are often incorrect. If a track has folk instruments/motifs, it MUST be Folk. If it's mainstream and emotional but lacks theatrical vibrato, it is Pop: Retro. Don't give explanations - just return the songs grouped by assigned playlist (Title - Artist)"
+## How to Assign Tracks
+1. **Master Flow (Step 1 is a HARD STOP):** Always check Functional & Folk (Step 1) before moving to Step 2 or Step 3.
+2. **Identity Over Metadata:** Ignore "Russian Chanson" or "Pop" genre tags. Use **Track Title**, **Artist**, and **Album** to determine the true vibe.
+3. **Folk Priority:** Any Slavic/Caucasian folk elements (lyrics, instruments, motifs) **MUST** go to `Folk`.
+4. **Output Format:** Just return the songs grouped by assigned playlist (e.g., `Playlist Name: Title - Artist`). No extra text or explanations.
 
-## Core Principles
+---
+
+## System Core Principles
 1. **One song → one playlist** (No overlaps).
 2. **Listen Experience First:** Classify by how the track feels/functions, not just metadata.
 3. **Execution Priority:** Follow the Master Flow (Functional/Folk > Genre > Pop).
