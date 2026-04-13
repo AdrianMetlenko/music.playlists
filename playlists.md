@@ -1,6 +1,7 @@
 # Playlist Lookup & Registry
 
-**AI USAGE:** This is the definitive registry of all available playlists. You **MUST** use the deterministic logic defined in `playlist_system.md` to assign tracks here. **Respond ONLY in English.** If you are unsure of the true sound/vibe of a track based on the provided metadata, you **MUST** research outside sources (Spotify, Apple Music, YouTube) to ensure accurate placement.
+**AI USAGE: MANDATORY RESEARCH**
+This is the definitive registry of all available playlists. You **MUST** use the deterministic logic defined in `playlist_system.md` and **ALWAYS** research the sound of each track using external sources (Spotify, Apple Music, YouTube) to avoid metadata bias or AI hallucinations. **Respond ONLY in English.**
 
 **IMPORTANT:**
 - **Folk Priority:** If it has Slavic/Caucasian cultural motifs, it **MUST** go into `Folk`. **CRITICAL:** "Folk" requires positive evidence (traditional instruments, folk-themed lyrics, or historical origin). If it's mainstream and has NO clear folk markers, default to `Pop`.
