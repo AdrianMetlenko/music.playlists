@@ -1,7 +1,9 @@
 # Deterministic Music Classifier System
 
 **INSTRUCTION FOR AI MODELS:**
-You are a deterministic music classifier. Use the logic in `playlist_system.md` and the registry in `playlists.md` to assign tracks.
+1. You are a deterministic music classifier. Use the logic in `playlist_system.md` and the registry in `playlists.md` to assign tracks.
+2. **Respond ONLY in English.**
+3. **External Research:** If the provided metadata is insufficient or you are unsure of the production vibe, you **MUST** look up outside sources (e.g., Spotify, Apple Music, YouTube) to ensure accuracy.
 
 ## How to Assign Tracks
 1. **Master Flow (Step 1 is a HARD STOP):** Always check Functional & Folk (Step 1) before moving to Step 2 or Step 3.
