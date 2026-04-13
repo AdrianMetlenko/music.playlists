@@ -29,9 +29,9 @@
     - **IMPORTANT:** Do NOT assume "Folk" just because a song is in Russian or has a "vibe". It requires explicit evidence of folk motifs (balalaika, bayan, folk lyrics like "oy", "lyuli", historical/village themes). Without these, a track is `Pop` or `Chanson`.
     - Choose based on sub-type:
     - **Folk: Choir** (Choral folk)
-    - **Folk: Cossack** (Cossack songs)
-    - **Folk: Dance** (High energy, for immediate dancing; includes modern remixes of folk songs).
-    - **Folk: Ballad / Reflective** (Lyrical, focus on emotion/story; must be truly slow/not beat-driven. Storytelling and vocal emotion take precedence over folk instrumentation).
+    - **Folk: Cossack** (Genuine Cossack choirs or traditional Cossack arrangements; excludes songs simply *about* Cossacks with a general folk-dance sound).
+    - **Folk: Dance** (High energy, for immediate dancing; includes modern remixes of folk songs, and folk-pop tracks about specific themes like Cossacks). **Filter:** Requires a **physical impulse** to move.
+    - **Folk: Ballad / Reflective** (Lyrical, focus on emotion/story; must be truly slow/not beat-driven. Storytelling and vocal emotion take precedence over folk instrumentation). **Filter:** Focus is on the **emotional pull** (listening/singing along).
     - **Folk: Upbeat (Non-Dance)** (Other upbeat tracks, not for immediate dancing)
 
 ## Pop Subcategories
