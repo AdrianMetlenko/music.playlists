@@ -22,7 +22,10 @@ If not → Step 2
 - Folk (dance / choir)
 
 ### Production-driven
-- Pop (Retro / Modern — always split by era)
+- EDM Pop (EDM-influenced, has a drop)
+- Alt Pop (Modern Hybrid, minimal/alt)
+- Y2K Pop (Y2K, early-2000s glossy)
+- Warm Pop (Retro, everything else with live feel)
 - Electronic
 - Dance / EDM
 
@@ -36,7 +39,7 @@ If not → Step 2
 ## Step 3 — ADJUST (only if obvious)
 - Club energy → EDM
 - Synth but not club → Electronic
-- Era → Pop: Retro / Modern
+- Pop subcategory (Big Pop / Alt Pop / Glossy Pop / Warm Pop)
 - Slavic folk → Folk subcategory
 
 If none apply → keep Step 2 result.
@@ -46,9 +49,11 @@ If none apply → keep Step 2 result.
 # 2. CORE RULES
 
 ## Pop
-Must ALWAYS be:
-- Pop: Retro
-- Pop: Modern
+Must ALWAYS be one of:
+- EDM Pop
+- Alt Pop (Modern Hybrid)
+- Y2K Pop
+- Warm Pop (Retro)
 
 ## Electronic vs EDM
 - Track → Electronic
@@ -78,11 +83,17 @@ No non-Slavic music here.
 ## Alternative / Indie / Rock
 Band-driven, expressive
 
-## Pop: Retro (70s–2000s)
-Mainstream, melodic — pre-2010s era
+## EDM Pop
+Has a drop, EDM-influenced mainstream
 
-## Pop: Modern (2010s+)
-Mainstream, melodic — contemporary
+## Alt Pop (Modern Hybrid)
+Feels stripped, minimal, or alt-leaning
+
+## Y2K Pop (Y2K)
+Sounds early-2000s glossy
+
+## Warm Pop (Retro)
+Everything else with a live feel; mainstream melodic
 
 ## Electronic
 Production-first, not club
@@ -159,6 +170,6 @@ Priority: Orthodox > Christmas (e.g., Orthodox Nativity service → Orthodox)
 
 1. Function? (Children / Orthodox / Christmas)
 2. What dominates? (Voice / Band / Production / Atmosphere)
-3. Any override? (EDM / Era / Folk)
+3. Any override? (EDM / Pop subcategory / Folk)
 
 Done.
