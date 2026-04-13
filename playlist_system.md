@@ -1,8 +1,8 @@
 # 1. MASTER FLOW
 
 ## Step 1 — FUNCTION (Immediate)
-- Children → Children (RU / EN only)
-- Orthodox → Orthodox playlists (by service)
+- Children → Children (Russian / English)
+- Orthodox → Orthodox (by service)
 - Christmas → Christmas (explicitly Christmas-themed; Orthodox Nativity → Orthodox, not Christmas)
 
 If not → Step 2
@@ -15,17 +15,18 @@ If not → Step 2
 - Singer/Songwriter
 - Chanson / Ballads
 - Hip-Hop / Rap
-- Folk (slow)
+- Folk: Slow / Reflective
 
 ### Band-driven
 - Alternative / Indie / Rock
-- Folk (dance / choir)
+- Flamenco / Latin
+- Folk (Upbeat / Dance / Choir / Caucasus / Cossack)
 
 ### Production-driven
-- EDM Pop (EDM-influenced, has a drop)
-- Alt Pop (Modern Hybrid, minimal/alt)
-- Y2K Pop (Y2K, early-2000s glossy)
-- Warm Pop (Retro, everything else with live feel)
+- Pop: EDM (EDM-influenced, has a drop)
+- Pop: Modern (Modern Hybrid, minimal/alt)
+- Pop: Y2K (Early-2000s glossy)
+- Pop: Retro (Everything else with live feel)
 - Electronic
 - Dance / EDM
 
@@ -39,7 +40,7 @@ If not → Step 2
 ## Step 3 — ADJUST (only if obvious)
 - Club energy → EDM
 - Synth but not club → Electronic
-- Pop subcategory (Big Pop / Alt Pop / Glossy Pop / Warm Pop)
+- Pop subcategory
 - Slavic folk → Folk subcategory
 
 If none apply → keep Step 2 result.
@@ -50,10 +51,10 @@ If none apply → keep Step 2 result.
 
 ## Pop
 Must ALWAYS be one of:
-- EDM Pop
-- Alt Pop (Modern Hybrid)
-- Y2K Pop
-- Warm Pop (Retro)
+- Pop: EDM
+- Pop: Modern
+- Pop: Y2K
+- Pop: Retro
 
 ## Electronic vs EDM
 - Track → Electronic
@@ -68,79 +69,31 @@ Use ONLY if:
 Otherwise → do NOT use
 
 ## Folk (STRICT: Slavic only)
-- Slow / Reflective
-- Upbeat / Dance
-- Choir
-- Cossack
-- Caucasus
+- Folk: Slow / Reflective
+- Folk: Upbeat / Dance
+- Folk: Choir
+- Folk: Cossack
+- Folk: Caucasus
 
 No non-Slavic music here.
 
 ---
 
-# 3. PLAYLIST DEFINITIONS
-
-## Alternative / Indie / Rock
-Band-driven, expressive
-
-## EDM Pop
-Has a drop, EDM-influenced mainstream
-
-## Alt Pop (Modern Hybrid)
-Feels stripped, minimal, or alt-leaning
-
-## Y2K Pop (Y2K)
-Sounds early-2000s glossy
-
-## Warm Pop (Retro)
-Everything else with a live feel; mainstream melodic
-
-## Electronic
-Production-first, not club
-
-## Dance / EDM
-Club / festival energy
-
-## Singer/Songwriter
-Intimate, stripped, personal
-
-## Chanson / Ballads
-Vocal-led, emotionally expressive; may be orchestrated or minimalist
-
-## Hip-Hop / Rap
-Rhythmic vocal focus
-
-## Jazz / Instrumental
-Musicianship-first
-
-## Ambient / New Age
-Atmosphere, background
-
-## Classical / Crossover
-Classical elements in accessible or modern format
-
-Use when:
-- Orchestra / choir dominates
-- Structured, composed feel
-- Cinematic or concert-like
-
-Do NOT use when:
-- Orthodox service → Orthodox
-- Pure ambient → Ambient
-
-Priority:
-- Orthodox > Classical
-- Ambient vs Classical:
-  - melodic → Classical
-  - texture → Ambient
+# 3. PLAYLIST LOOKUP
+See `playlists.md` for a clear list of all playlists and their intended content.
 
 ---
 
 # 4. ORTHODOX (STRICT)
-- Divine Liturgy
 - All-Night Vigil
+- Great Lent
+- Liturgy
+- Memorial / Funeral
+- Moleben / Devotional
 - Nativity
+- Pascha
 - Sacred Concert
+- Songs
 - Znamenny / Bulgarian / Georgian Chant
 
 Rules:
@@ -150,8 +103,8 @@ Rules:
 ---
 
 # 5. CHILDREN
-- Russian
-- English
+- Children: Russian
+- Children: English
 
 Only category split by language
 
