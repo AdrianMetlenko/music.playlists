@@ -3,12 +3,12 @@
 **AI USAGE:** This is the definitive registry of all available playlists. You **MUST** use the deterministic logic defined in `playlist_system.md` to assign tracks here.
 
 **IMPORTANT:**
-- **Folk Priority:** If it has Slavic/Caucasian cultural motifs, it **MUST** go into `Folk`.
-- **Metadata Trap:** Ignore "Russian Chanson" tags for mainstream songs. Use `Pop: Retro`.
+- **Folk Priority:** If it has Slavic/Caucasian cultural motifs, it **MUST** go into `Folk`. **CRITICAL:** "Folk" requires positive evidence (traditional instruments, folk-themed lyrics, or historical origin). If it's mainstream and has NO clear folk markers, default to `Pop`.
+- **Metadata Trap:** Ignore "Russian Chanson" or "Pop" tags for mainstream songs. Use `Pop: Retro`.
 - **Format:** Group title-artist by assigned playlist. No explanations.
 
 ## Functional & Folk Playlists
-(Priority: Always check these first)
+(Priority: Always check these first. If no positive match, move to Step 2)
 
 - **Children: English**: Kids' music in English.
 - **Children: Russian**: Kids' music in Russian.
@@ -24,7 +24,9 @@
     - **Songs** (Non-liturgical spiritual songs)
     - **Znamenny / Bulgarian / Georgian Chant** (Traditional/Ancient chant styles)
 - **Christmas**: Music explicitly themed around the Christmas holiday (Note: Orthodox Nativity → Orthodox, NOT Christmas).
-- **Folk**: Slavic and Caucasian music specifically. **Priority: Based on lyrics, origin, or cultural motifs (instruments).** If a track has folk instruments or themes, it MUST be here regardless of "Pop" or "Chanson" production. Choose based on sub-type:
+- **Folk**: Slavic and Caucasian music specifically. **Priority: Based on lyrics, origin, or cultural motifs (instruments).** 
+    - **IMPORTANT:** Do NOT assume "Folk" just because a song is in Russian or has a "vibe". It requires explicit evidence of folk motifs (balalaika, bayan, folk lyrics like "oy", "lyuli", historical/village themes). Without these, a track is `Pop` or `Chanson`.
+    - Choose based on sub-type:
     - **Folk: Choir** (Choral folk)
     - **Folk: Cossack** (Cossack songs)
     - **Folk: Dance** (High energy, for immediate dancing; includes modern remixes of folk songs).
