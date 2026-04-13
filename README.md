@@ -6,7 +6,7 @@
 
 ## Usage
 - Playlist System should be able to be given to any AI model and it should assign the correct playlist consistently.
-- Assginments should be deterministic
+- Assignments should be deterministic
 - The AI prompt will be "Use these rules to define playlists. Don't give explanations - just return the songs grouped by assigned playlist (Title - Artist)"
 
 ## Core Principles

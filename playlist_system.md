@@ -3,6 +3,7 @@
 ## Step 1 — FUNCTION (Immediate)
 - Children → Children (RU / EN only)
 - Orthodox → Orthodox playlists (by service)
+- Christmas → Christmas (explicitly Christmas-themed; Orthodox Nativity → Orthodox, not Christmas)
 
 If not → Step 2
 
@@ -13,6 +14,7 @@ If not → Step 2
 ### Vocal-driven
 - Singer/Songwriter
 - Chanson / Ballads
+- Hip-Hop / Rap
 - Folk (slow)
 
 ### Band-driven
@@ -20,7 +22,7 @@ If not → Step 2
 - Folk (dance / choir)
 
 ### Production-driven
-- Pop
+- Pop (Retro / Modern — always split by era)
 - Electronic
 - Dance / EDM
 
@@ -37,14 +39,16 @@ If not → Step 2
 - Era → Pop: Retro / Modern
 - Slavic folk → Folk subcategory
 
+If none apply → keep Step 2 result.
+
 ---
 
 # 2. CORE RULES
 
 ## Pop
 Must ALWAYS be:
-- Pop: Retro (70s–2000s)
-- Pop: Modern (2010s+)
+- Pop: Retro
+- Pop: Modern
 
 ## Electronic vs EDM
 - Track → Electronic
@@ -74,8 +78,11 @@ No non-Slavic music here.
 ## Alternative / Indie / Rock
 Band-driven, expressive
 
-## Pop
-Mainstream, melodic
+## Pop: Retro (70s–2000s)
+Mainstream, melodic — pre-2010s era
+
+## Pop: Modern (2010s+)
+Mainstream, melodic — contemporary
 
 ## Electronic
 Production-first, not club
@@ -85,6 +92,9 @@ Club / festival energy
 
 ## Singer/Songwriter
 Intimate, stripped, personal
+
+## Chanson / Ballads
+Vocal-led, emotionally expressive; may be orchestrated or minimalist
 
 ## Hip-Hop / Rap
 Rhythmic vocal focus
@@ -140,6 +150,8 @@ Only category split by language
 Use if explicitly Christmas-themed
 
 Overrides genre
+
+Priority: Orthodox > Christmas (e.g., Orthodox Nativity service → Orthodox)
 
 ---
 
