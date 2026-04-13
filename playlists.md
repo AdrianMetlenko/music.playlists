@@ -4,6 +4,7 @@ This is a quick-reference list of all available playlists and their general focu
 
 ## Functional Playlists
 - **Children: English**: Kids' music in English.
+- **Children: Russian**: Kids' music in Russian.
 - **Orthodox**: Liturgical music and chants, organized by service type:
     - **All-Night Vigil**
     - **Great Lent**
@@ -18,10 +19,10 @@ This is a quick-reference list of all available playlists and their general focu
 - **Christmas**: Music explicitly themed around the Christmas holiday.
 
 ## Pop Subcategories
-- **Pop: EDM**: High-energy mainstream tracks featuring a "drop" and EDM influence (formerly "Big Pop").
-- **Pop: Modern**: Minimalist or alternative-leaning pop; feels stripped or "alt" (formerly "Alt Pop").
-- **Pop: Y2K**: Early-2000s aesthetic; polished, glossy, and bright production (formerly "Glossy Pop").
-- **Pop: Retro**: Mainstream melodic tracks with a "live" feel; includes anything not fitting the other three (formerly "Warm Pop").
+- **Pop: EDM**: High-energy mainstream tracks featuring a "drop" and EDM influence.
+- **Pop: Modern**: Minimalist or alternative-leaning pop; feels stripped or "alt".
+- **Pop: Y2K**: Early-2000s aesthetic; polished, glossy, and bright production.
+- **Pop: Retro**: Mainstream melodic tracks with a "live" feel; includes anything not fitting the other three.
 
 ## Vocal-Driven
 - **Singer/Songwriter**: Intimate, personal, and author-led; usually minimal arrangement.
@@ -31,11 +32,11 @@ This is a quick-reference list of all available playlists and their general focu
 ## Band-Driven
 - **Alternative / Indie / Rock**: Band-led tracks with expressive and organic energy.
 - **Folk**: Slavic music specifically.
-    - **Folk: Caucasus** (Regional style from Caucasus)
     - **Folk: Choir** (Choral folk)
     - **Folk: Cossack** (Cossack songs)
-    - **Folk: Slow / Reflective** (Lyrical, quiet)
-    - **Folk: Upbeat / Dance** (High energy, dancing)
+    - **Folk: Dance** (High energy, for immediate dancing)
+    - **Folk: Ballad / Reflective** (Lyrical, focus on emotion/story)
+    - **Folk: Upbeat (Non-Dance)** (Other upbeat tracks, not for immediate dancing)
 - **Flamenco / Latin**: Spanish guitar, Latin rhythms, or folk-traditional music from those regions.
 
 ## Production-Driven

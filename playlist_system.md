@@ -15,12 +15,12 @@ If not → Step 2
 - Singer/Songwriter
 - Chanson / Ballads
 - Hip-Hop / Rap
-- Folk: Slow / Reflective
+- Folk: Ballad / Reflective
 
 ### Band-driven
 - Alternative / Indie / Rock
 - Flamenco / Latin
-- Folk (Upbeat / Dance / Choir / Caucasus / Cossack)
+- Folk (Choir / Cossack / Dance / Upbeat (Non-Dance))
 
 ### Production-driven
 - Pop: EDM (EDM-influenced, has a drop)
@@ -69,11 +69,11 @@ Use ONLY if:
 Otherwise → do NOT use
 
 ## Folk (STRICT: Slavic only)
-- Folk: Slow / Reflective
-- Folk: Upbeat / Dance
-- Folk: Choir
-- Folk: Cossack
-- Folk: Caucasus
+- **Choir?** → Folk: Choir
+- **Cossack?** → Folk: Cossack
+- **Would people dance immediately?** → Folk: Dance
+- **Is emotion/story the main focus?** → Folk: Ballad / Reflective
+- **Otherwise** → Folk: Upbeat (Non-Dance)
 
 No non-Slavic music here.
 
