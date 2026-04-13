@@ -31,16 +31,16 @@
     - **Folk: Choir** (Choral folk)
     - **Folk: Cossack** (Cossack songs)
     - **Folk: Dance** (High energy, for immediate dancing; includes modern remixes of folk songs).
-    - **Folk: Ballad / Reflective** (Lyrical, focus on emotion/story; must be truly slow/not beat-driven).
+    - **Folk: Ballad / Reflective** (Lyrical, focus on emotion/story; must be truly slow/not beat-driven. Storytelling and vocal emotion take precedence over folk instrumentation).
     - **Folk: Upbeat (Non-Dance)** (Other upbeat tracks, not for immediate dancing)
 
 ## Pop Subcategories
 (Mainstream tracks that don't fit a specific Genre category)
 
 - **Pop: EDM**: High-energy mainstream tracks featuring a "drop" and EDM influence.
-- **Pop: Modern**: Minimalist, alternative-leaning, or "indie-pop" aesthetic; often features stripped-back production, "bedroom pop" vibes, or 2020s-style synth-pop. **CRITICAL:** Do NOT classify based on release year; it's about the "alt" feel.
+- **Pop: Modern**: Minimalist, alternative-leaning, or "indie-pop" aesthetic; often features stripped-back production, "bedroom pop" vibes, or 2020s-style synth-pop. **CRITICAL:** Do NOT classify based on release year; it's about the "alt" feel. Includes rhythmic, beat-driven R&B / dance-pop with a summery or groove-heavy vibe. (e.g., "Белый Пляж" - Bianka Vs. Иракли).
 - **Pop: Y2K**: Glossy, bright, and polished production typical of the late-90s/early-2000s; high-compression, "bubblegum", or rhythmic pop-R&B.
-- **Pop: Retro**: Mainstream melodic tracks with a "live" feel, traditional instrumentation (real drums/guitar/piano), or a classic "Schlager" vibe; includes emotional ballads.
+- **Pop: Retro**: Mainstream melodic tracks with a "live" feel, traditional instrumentation (real drums/guitar/piano), or a classic "Schlager" vibe; includes emotional ballads. **CRITICAL:** If it's built around a rhythmic groove, R&B, or synth textures, it is NOT Retro.
 
 ## Vocal-Driven
 - **Singer/Songwriter**: Intimate, personal, and author-led; minimal arrangement (usually just voice + one instrument).

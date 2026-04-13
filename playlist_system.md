@@ -22,7 +22,8 @@ Check if the track's primary purpose is functional, holiday, or of specific cult
         - **EXAMPLE:** A traditional song like "Сизый Голубочек" (Nadezhda Babkina) is `Folk: Dance` if the performance is lively and rhythmic, even if the song is historically a ballad.
     - **Choral?** → `Folk: Choir`.
     - **Cossack?** → `Folk: Cossack`.
-    - **Emotional/Story focus?** → `Folk: Ballad / Reflective` (Only for tracks that are truly slow, lyrical, and not beat-driven).
+    - **Emotional/Story focus?** → `Folk: Ballad / Reflective` (Only for tracks that are truly slow, lyrical, and not beat-driven. Emotional/vocal-forward storytelling takes precedence over folk instrumentation).
+        - **EXAMPLE:** "Миллион Алых Роз" (Zolotoe Koltso Ensemble & Nadezhda Kadysheva) is `Folk: Ballad / Reflective` because its execution is expressive and melodic, not driven by physical movement/dance energy.
     - **Upbeat but not for dancing?** → `Folk: Upbeat (Non-Dance)`.
 
 ### 2. Other Genre/Form Check (The "Vibe" and "Build")
@@ -44,9 +45,10 @@ If not Functional or Folk, assign based on what dominates the track:
 ### 4. Mainstream/Pop Check
 If the track doesn't fit any Genre above but is mainstream/commercial pop, assign it to one of these:
 - **Pop: EDM**: High-energy mainstream tracks featuring a "drop" and EDM influence.
-- **Pop: Modern**: Minimalist, alternative-leaning, or "indie-pop" aesthetic; often features stripped-back production, "bedroom pop" vibes, or 2020s-style synth-pop. **CRITICAL:** Do NOT classify based on release year; it's about the "alt" feel.
+- **Pop: Modern**: Minimalist, alternative-leaning, or "indie-pop" aesthetic; often features stripped-back production, "bedroom pop" vibes, or 2020s-style synth-pop. **CRITICAL:** Do NOT classify based on release year; it's about the "alt" feel. Includes rhythmic, beat-driven R&B / dance-pop with a summery or groove-heavy vibe.
+    - **EXAMPLE:** A rhythmic track like "Белый Пляж" (Bianka Vs. Иракли) is `Pop: Modern` because of its R&B/dance-pop production and groove, even if it is not "indie".
 - **Pop: Y2K**: Glossy, bright, and polished production typical of the late-90s/early-2000s; high-compression, "bubblegum", or rhythmic pop-R&B.
-- **Pop: Retro**: Mainstream melodic tracks with a "live" feel, traditional instrumentation (real drums/guitar/piano), or a classic "Schlager" vibe; includes emotional ballads.
+- **Pop: Retro**: Mainstream melodic tracks with a "live" feel, traditional instrumentation (real drums/guitar/piano), or a classic "Schlager" vibe; includes emotional ballads. **CRITICAL:** If it's built around a rhythmic groove, R&B, or synth textures, it is NOT Retro.
 - **Does it fit none of the above?** → `Pop: Retro`.
 
 ---
@@ -60,7 +62,7 @@ If the track doesn't fit any Genre above but is mainstream/commercial pop, assig
     - **The Fallback Rule:** If a track is mainstream and lacks these explicit markers (even if by a known "folk-adjacent" artist or in the Russian language), it must NOT be forced into Folk. It is `Pop` (Step 3) or `Chanson` (Step 2).
 4. **Folk/Functional Determination is Superior:** Identifying if a track is Slavic/Caucasian Folk (based on lyrics/origin) or a Functional track takes priority over checking other genres.
     - **Positive Evidence Required:** Superiority relies on clear stylistic markers (instruments/lyrics), not assumptions.
-    - **Execution Over Tradition:** Once a track is determined to be `Folk`, its sub-category must be chosen based on its **actual sound and energy** (e.g., a lively performance of a traditional ballad goes to `Folk: Dance`).
+    - **Execution Over Tradition:** Once a track is determined to be `Folk`, its sub-category must be chosen based on its **actual sound and energy** (e.g., a lively performance of a traditional ballad goes to `Folk: Dance`). **CRITICAL:** Folk instrumentation alone does NOT mean "Dance". If the focus is on vocal emotion and storytelling rather than immediate rhythmic drive, it belongs in `Folk: Ballad / Reflective`.
 5. **Pop is the fallback (Aesthetic over Age):** 'Pop' categories are only used if a track is mainstream and does NOT fit into any specific Genre or Folk category. **CRITICAL:** Classification MUST be based on production aesthetic and listening experience, NOT release year. A song from 2024 can be `Pop: Retro` if it has a live/traditional feel, and a song from 2005 can be `Pop: Modern` if it has a minimalist/alt-pop aesthetic.
 6. **Folk is Slavic/Caucasian Only:** Non-Slavic/Caucasian folk (e.g., Irish) goes to `Alternative / Indie / Rock` or `Singer/Songwriter` depending on the build. Includes modern remixes of folk tracks (e.g., 'Fiesta Mix' styles).
 7. **Singer/Songwriter vs Chanson vs Pop:**
