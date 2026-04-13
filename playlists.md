@@ -32,11 +32,11 @@ This is the definitive list of all available playlists.
 - **Pop: EDM**: High-energy mainstream tracks featuring a "drop" and EDM influence.
 - **Pop: Modern**: Minimalist or alternative-leaning pop; feels stripped or "alt".
 - **Pop: Y2K**: Early-2000s aesthetic; polished, glossy, and bright production.
-- **Pop: Retro**: Mainstream melodic tracks with a "live" feel; Includes any mainstream pop not fitting the above.
+- **Pop: Retro**: Mainstream melodic tracks with a "live" feel; Includes emotional ballads that lack specific Chanson theatrical markers.
 
 ## Vocal-Driven
 - **Singer/Songwriter**: Intimate, personal, and author-led; minimal arrangement (usually just voice + one instrument).
-- **Chanson / Ballads**: Vocal-led and emotionally expressive; can be orchestral or minimalist.
+- **Chanson / Ballads**: Vocal-led and emotionally expressive; specific to the "Urban Romance" or "Theatrical" tradition (heavy vibrato, dramatic storytelling).
 - **Hip-Hop / Rap**: Rhythmic vocal focus and beat-driven production.
 
 ## Band-Driven

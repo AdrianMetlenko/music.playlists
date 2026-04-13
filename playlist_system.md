@@ -25,7 +25,7 @@ If not Functional or Folk, assign based on what dominates the track:
 - **Is it beat-driven/vocal-rhythmic?** → `Hip-Hop / Rap`.
 - **Is it band-led (guitars/drums/organic)?** → `Alternative / Indie / Rock`.
 - **Is it intimate/solo voice + minimal instrument?** → `Singer/Songwriter`.
-- **Is it vocal-led but expressive/orchestral/ballad?** → `Chanson / Ballads`.
+- **Is it vocal-led but expressive/orchestral/ballad?** → `Chanson / Ballads` (Specific to the "Urban Romance" or "Theatrical/Dramatic" tradition; not for general mainstream pop ballads).
 - **Is it purely electronic/production-first (and NO folk/traditional elements)?**
     - Club/Festival energy? → `Dance / EDM`.
     - Listening/Atmospheric focus? → `Electronic`.
@@ -39,7 +39,8 @@ If the track doesn't fit any Genre above but is mainstream/commercial pop, assig
 - **Has an EDM "drop" or heavy synth?** → `Pop: EDM`.
 - **Minimal, alternative, or "stripped" feel?** → `Pop: Modern`.
 - **Early-2000s glossy/polished production?** → `Pop: Y2K`.
-- **Live feel, traditional pop, or doesn't fit the above?** → `Pop: Retro`.
+- **Live feel, traditional pop, or mainstream emotional ballads?** → `Pop: Retro`.
+- **Does it fit none of the above?** → `Pop: Retro`.
 
 ---
 
@@ -49,11 +50,12 @@ If the track doesn't fit any Genre above but is mainstream/commercial pop, assig
 2. **Identity Over Metadata:** Do NOT rely on provided genre tags (e.g., "Russian Chanson", "Pop"). Use the **Track Title**, **Artist**, and **Album** along with the actual sound/vibe to determine the category. Many existing genre tags are incorrect.
 3. **Functional/Folk takes precedence:** If a track fits the Functional check or Folk origin check (Slavic/Caucasian), it MUST go there even if it sounds like mainstream pop.
 4. **Folk/Functional Determination is Superior:** Identifying if a track is Slavic/Caucasian Folk (based on lyrics/origin) or a Functional track takes priority over checking other genres (e.g., a "Pop" or "Chanson" track with folk origins is `Folk`).
-5. **Pop is the fallback:** 'Pop' categories are only used if a track is mainstream and does NOT fit into any specific Genre or Folk category.
+5. **Pop is the fallback:** 'Pop' categories are only used if a track is mainstream and does NOT fit into any specific Genre or Folk category. This includes emotional, vocal-led mainstream ballads that lack the specific theatrical or "urban romance" markers of `Chanson / Ballads`.
 6. **Folk is Slavic/Caucasian Only:** Non-Slavic/Caucasian folk (e.g., Irish) goes to `Alternative / Indie / Rock` or `Singer/Songwriter` depending on the build. Includes modern remixes of folk tracks (e.g., 'Fiesta Mix' styles).
-7. **Singer/Songwriter vs Chanson:**
-    - `Singer/Songwriter` = Raw, intimate, usually just one person and their instrument.
-    - `Chanson / Ballads` = Polished, often orchestral or with a full backing, high emotional drama.
+7. **Singer/Songwriter vs Chanson vs Pop:**
+    - `Singer/Songwriter` = Raw, intimate, usually just one person and their instrument; author-led.
+    - `Chanson / Ballads` = Polished but deeply theatrical, dramatic, or rooted in the "urban romance" style; often features a heavy vibrato or storytelling delivery.
+    - `Pop: Retro` = Mainstream emotional ballads with polished production and a melodic "live" or traditional feel; lacking the specific theatrical/romance markers of Chanson.
 8. **Electronic vs Dance / EDM:**
     - `Dance / EDM` = High intensity, high BPM, meant for movement.
     - `Electronic` = Synthesisers used for a listening experience.
