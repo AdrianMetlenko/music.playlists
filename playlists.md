@@ -19,7 +19,7 @@ This is the definitive list of all available playlists.
     - **Songs** (Non-liturgical spiritual songs)
     - **Znamenny / Bulgarian / Georgian Chant** (Traditional/Ancient chant styles)
 - **Christmas**: Music explicitly themed around the Christmas holiday (Note: Orthodox Nativity → Orthodox, NOT Christmas).
-- **Folk**: Slavic and Caucasian music specifically. **Priority: Based on lyrics/origin.** Choose based on sub-type:
+- **Folk**: Slavic and Caucasian music specifically. **Priority: Based on lyrics, origin, or cultural motifs (instruments).** If a track has folk instruments or themes, it MUST be here regardless of "Pop" or "Chanson" production. Choose based on sub-type:
     - **Folk: Choir** (Choral folk)
     - **Folk: Cossack** (Cossack songs)
     - **Folk: Dance** (High energy, for immediate dancing; includes modern remixes of folk songs).
@@ -36,7 +36,7 @@ This is the definitive list of all available playlists.
 
 ## Vocal-Driven
 - **Singer/Songwriter**: Intimate, personal, and author-led; minimal arrangement (usually just voice + one instrument).
-- **Chanson / Ballads**: Vocal-led and emotionally expressive; specific to the "Urban Romance" or "Theatrical" tradition (heavy vibrato, dramatic storytelling).
+- **Chanson / Ballads**: Vocal-led and emotionally expressive; specific to the "Urban Romance" or "Theatrical" tradition (heavy vibrato, dramatic storytelling). **NOTE:** Excludes mainstream pop ballads (use Pop: Retro) and folk-dance/folk-soul (use Folk).
 - **Hip-Hop / Rap**: Rhythmic vocal focus and beat-driven production.
 
 ## Band-Driven
