@@ -11,4 +11,4 @@ This system provides deterministic rules for assigning tracks to playlists.
 ## Core Principles
 1. **One song → one playlist** (No overlaps).
 2. **Listen Experience First:** Classify by how the track feels/functions, not just metadata.
-3. **Execution Priority:** Follow the Master Flow (Functional > Genre > Pop).
+3. **Execution Priority:** Follow the Master Flow (Functional/Folk > Genre > Pop).
