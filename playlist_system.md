@@ -15,10 +15,10 @@ Check if the track's primary purpose is functional/holiday:
 ### 2. Genre/Form Check (The "Vibe" and "Build")
 If not Functional, assign based on what dominates the track:
 
-- **Is it Slavic Folk?** → `Folk` (Must choose sub-category):
+- **Is it Slavic/Caucasian Folk?** → `Folk` (Must choose sub-category):
     - Choral? → `Folk: Choir`.
     - Cossack? → `Folk: Cossack`.
-    - High energy/Dance? → `Folk: Dance`.
+    - High energy/Dance (including modern remixes/mixes)? → `Folk: Dance`.
     - Emotional/Story focus? → `Folk: Ballad / Reflective`.
     - Upbeat but not for dancing? → `Folk: Upbeat (Non-Dance)`.
 - **Is it Latin/Spanish/Flamenco?** → `Flamenco / Latin`.
@@ -26,7 +26,7 @@ If not Functional, assign based on what dominates the track:
 - **Is it band-led (guitars/drums/organic)?** → `Alternative / Indie / Rock`.
 - **Is it intimate/solo voice + minimal instrument?** → `Singer/Songwriter`.
 - **Is it vocal-led but expressive/orchestral/ballad?** → `Chanson / Ballads`.
-- **Is it purely electronic/production-first?**
+- **Is it purely electronic/production-first (and NO folk/traditional elements)?**
     - Club/Festival energy? → `Dance / EDM`.
     - Listening/Atmospheric focus? → `Electronic`.
 - **Is it Instrumental/Atmospheric?**
@@ -46,16 +46,18 @@ If the track doesn't fit a specific Genre above but is mainstream/commercial pop
 ## CORE RULES (Deterministic Logic)
 
 1. **One Track, One Playlist:** No overlaps. If a track fits two, use the Master Flow priority (Functional > Genre > Pop).
-2. **Genre takes precedence:** If a track fits a specific Genre (e.g., Slavic Folk, Flamenco, Hip-Hop), it MUST go there even if it sounds like mainstream pop.
-3. **Pop is the fallback:** 'Pop' categories are only used if a track is mainstream and does NOT fit into any specific Genre category.
-4. **Folk is Slavic Only:** Non-Slavic folk (e.g., Irish) goes to `Alternative / Indie / Rock` or `Singer/Songwriter` depending on the build.
-5. **Singer/Songwriter vs Chanson:**
+2. **Identity Over Metadata:** Do NOT rely on provided genre tags (e.g., "Russian Chanson", "Pop"). Use the **Track Title**, **Artist**, and **Album** along with the actual sound/vibe to determine the category. Many existing genre tags are incorrect.
+3. **Genre takes precedence:** If a track fits a specific Genre (e.g., Slavic Folk, Flamenco, Hip-Hop), it MUST go there even if it sounds like mainstream pop.
+4. **Pop is the fallback:** 'Pop' categories are only used if a track is mainstream and does NOT fit into any specific Genre category.
+5. **Folk is Slavic/Caucasian Only:** Non-Slavic/Caucasian folk (e.g., Irish) goes to `Alternative / Indie / Rock` or `Singer/Songwriter` depending on the build. Includes modern remixes of folk tracks (e.g., 'Fiesta Mix' styles).
+6. **Singer/Songwriter vs Chanson:**
     - `Singer/Songwriter` = Raw, intimate, usually just one person and their instrument.
     - `Chanson / Ballads` = Polished, often orchestral or with a full backing, high emotional drama.
-6. **Electronic vs Dance / EDM:**
+    - **Note:** Many tracks labeled "Chanson" in metadata are actually `Folk: Dance` (e.g., Anzhela Babich - Quadrille) or `Pop: Retro`. If it has folk instruments or dance energy, prioritize `Folk: Dance`.
+7. **Electronic vs Dance / EDM:**
     - `Dance / EDM` = High intensity, high BPM, meant for movement.
     - `Electronic` = Synthesisers used for a listening experience.
-7. **Orthodox Overrides Everything:** If it's a church service track, it's `Orthodox`, regardless of whether it's Christmas or contains Folk elements.
+8. **Orthodox Overrides Everything:** If it's a church service track, it's `Orthodox`, regardless of whether it's Christmas or contains Folk elements.
 
 ---
 

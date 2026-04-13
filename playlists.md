@@ -35,10 +35,10 @@ This is the definitive list of all available playlists.
 
 ## Band-Driven
 - **Alternative / Indie / Rock**: Band-led tracks with expressive and organic energy.
-- **Folk**: Slavic music specifically. Choose based on sub-type:
+- **Folk**: Slavic and Caucasian music specifically. Choose based on sub-type:
     - **Folk: Choir** (Choral folk)
     - **Folk: Cossack** (Cossack songs)
-    - **Folk: Dance** (High energy, for immediate dancing)
+    - **Folk: Dance** (High energy, for immediate dancing; includes modern remixes of folk songs)
     - **Folk: Ballad / Reflective** (Lyrical, focus on emotion/story)
     - **Folk: Upbeat (Non-Dance)** (Other upbeat tracks, not for immediate dancing)
 - **Flamenco / Latin**: Spanish guitar, Latin rhythms, or folk-traditional music from those regions.
